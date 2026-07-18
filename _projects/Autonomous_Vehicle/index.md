@@ -13,4 +13,3 @@ skills:
 main-image: /Wheel_axle.PNG
 ---
 ## Overview of design
-
