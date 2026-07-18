@@ -20,5 +20,10 @@ A scale model of the cart was also designed and fabricated, with the goal of val
 The bulk of the design was done in solidworks, with the control system design and validation done using MATLAB simulink. We set specific design goals for this project: 
 
 ## Results of the project
-Independent control of 4 Mecanum wheels allowed translation and rotation in any direction, simplifying the path planning requirements. 
+Independent control of 4 Mecanum wheels allowed translation and rotation in any direction, simplifying the path planning requirements.
+<br>
+Control system was tuned to follow desired velocity trajectories with very low error.
+<br>
+Mechanical design was capable of extreme overloading of up to 400lbs, with a stress factor of safety of more than 2
+
 
