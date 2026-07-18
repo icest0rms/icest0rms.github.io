@@ -5,5 +5,5 @@ description:  short description of the project
 skills: 
 - skill 1
 - skill 2
-main-image: /cart_render.png
+main-image: /Wheel_axle.PNG
 ---
