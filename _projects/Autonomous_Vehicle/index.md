@@ -14,7 +14,7 @@ main-image: /Wheel_axle.PNG
 ---
 ## overview of project
 With a team of 3 mechanical engineers, we created a mechanical design and control system for a autonomous cart, intended for use in stores with a high concentration of cameras.  
-A scale model of the cart was also designed and fabricated, with the goal of validating our control system functionality.
+A scale model of the cart was also designed and fabricated, with the goal of validating our control system functionality.  
 {% include image-gallery.html images="cart_render.png" height="400" %}
 
 
