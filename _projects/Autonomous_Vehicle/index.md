@@ -15,8 +15,5 @@ main-image: /Wheel_axle.PNG
 ## overview of project
 With a team of 3 mechanical engineers, we created plans for an autonomous navigating shopping cart, intended for use in stores with a high concentration of cameras. This included the mechanical design and validation, Control system design and electrical wiring. 
 A scale model of the cart was also designed and fabricated, with the goal of validating our control system functionality.
-<br>
-{% include image-gallery.html images="cart_render.png" height="400" %}
-<br>
-{% include image-gallery.html images="project2.jpg" height="400" %}
+{% include image-gallery.html images="{cart_render.png}, {blowup.PNG}" height="400"%}
 
